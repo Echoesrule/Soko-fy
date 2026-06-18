@@ -1,4 +1,4 @@
-# Shop Soko
+# Soko-fy
 PHP E-COMMERCE SHOP WEBSITE
 ==========================
 
